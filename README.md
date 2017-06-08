@@ -11,6 +11,7 @@ Some virus in different programming languages :)
 - Text-to-Voice
 - Delete Admin Password
 - Resource Starvation
+- Disconnect and Clean
 
 
 ### Creadits
