@@ -3,6 +3,7 @@ Some virus in different programming languages :)
 
 ### List of Viruses
 
+- Screen Melt
 - Crash RAM
 - Eject CD Repeatedly
 - Folder Bomb
