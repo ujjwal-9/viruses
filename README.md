@@ -10,6 +10,7 @@ Some virus in different programming languages :)
 - Shutdown Forever
 - Text-to-Voice
 - Delete Admin Password
+- Resource Starvation
 
 
 ### Creadits
