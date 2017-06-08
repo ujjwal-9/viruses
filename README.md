@@ -9,3 +9,4 @@ Some virus in different programming languages :)
 - Haunting By String
 - Shutdown Forever
 - Text-to-Voice
+- Delete Admin Password
