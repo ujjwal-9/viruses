@@ -8,3 +8,4 @@ Some virus in different programming languages :)
 - Folder Bomb
 - Haunting By String
 - Shutdown Forever
+- Text-to-Voice
