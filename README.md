@@ -10,3 +10,7 @@ Some virus in different programming languages :)
 - Shutdown Forever
 - Text-to-Voice
 - Delete Admin Password
+
+
+### Creadits
+Credits goes to internet.
